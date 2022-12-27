@@ -12,3 +12,6 @@ There are a total of 11 tasks covered in this notebook. These tasks are:
 9.  Splitting the train test sets
 10. Logistic Regression Model
 11. Decision Tree Model
+
+
+Here is the dataset - https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
